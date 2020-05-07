@@ -9,7 +9,7 @@ if block_given?
 
    array
  else
-  puts "hey! No block was given!"
+  puts "Hey! No block was given!"
  end
 end
 # call your method here!
